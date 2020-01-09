@@ -35,7 +35,6 @@ class I3 {
 };
 
 const produce = bmwProducer('sport')
-
 const myCar = new produce();
 
 console.log(myCar.info());
