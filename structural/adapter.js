@@ -1,11 +1,3 @@
-/*
-Адаптер - 
-оборачивает ни с чем не совместимый обЪект
-и делает совместимым, не изменяя исходный код обЪекта.
-
-https://www.youtube.com/watch?v=w6O9Kr41frc&list=PLNkWIWHIRwMGzgvuPRFkDrpAygvdKJIE4&index=10
-*/
-
 class Engine2 {
     simpleInterface() {
         console.log('Engine 2.0 - tr-tr-tr');

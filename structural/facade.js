@@ -1,10 +1,3 @@
-/*
-Фасад -
-собрать различные сложные структуры, обЪединить их и выдать простой способ манипуляций
-
-https://www.youtube.com/watch?v=AWXBbIK-KMo&list=PLNkWIWHIRwMGzgvuPRFkDrpAygvdKJIE4&index=8
-*/
-
 class Conveyor {
     setBody() { console.log('Body set!') }
 

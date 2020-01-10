@@ -1,11 +1,3 @@
-/*
-Посетитель -
-поведенческий паттерн - добавляет новую функциональность
-к уже существующим классам, причем не изменяя исходный код класса.
-
-https://www.youtube.com/watch?v=dyg13zxD9xw&list=PLNkWIWHIRwMGzgvuPRFkDrpAygvdKJIE4&index=20
-*/
-
 class Auto {
     accept(vistor) {
         vistor(this);

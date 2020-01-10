@@ -1,12 +1,3 @@
-/*
-Состояние -
-поведенческий паттерн, который позволяет менять обЪектам свое поведение,
-в зависимости от состояния, что со стороны выглядит так, как-будто в работу
-включился другой класс.
-
-https://www.youtube.com/watch?v=W_11rR4UFNw&list=PLNkWIWHIRwMGzgvuPRFkDrpAygvdKJIE4&index=23
-*/
-
 class OrderStatus {
     constructor(name, nextStatus) {
         this.name = name;

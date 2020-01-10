@@ -1,11 +1,3 @@
-/*
-Шаблонный метод -
-поведенческий паттерн - определяет базовые шаги исполнения алгоритма
-и выполнение каждого из этих шагов делегирует на соответствующие методы или подклассы
-
-https://www.youtube.com/watch?v=kFDEyshivVc&list=PLNkWIWHIRwMGzgvuPRFkDrpAygvdKJIE4&index=19
-*/
-
 class Builder {
     build() {
         this.addEngine();

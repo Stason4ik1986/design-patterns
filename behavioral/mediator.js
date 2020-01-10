@@ -1,11 +1,3 @@
-/*
-Посредник -
-поведенческий паттерн, позволяет уменьшить взаимосвязь классов между собой,
-вынося межклассовые связи в так называемый класс посредник
-
-https://www.youtube.com/watch?v=tWZfcmmGf1w&list=PLNkWIWHIRwMGzgvuPRFkDrpAygvdKJIE4&index=14
-*/
-
 class OfficialDealer {
     constructor() {
         this.customers = [];
