@@ -3,12 +3,12 @@ function bmwProducer(kind) {
     return kind === 'sport' ? sportCarFactory : familyCarFactory;
 };
 
-// Фабпика 1
+// Фабрика 1
 function sportCarFactory() {
     return new Z4();
 };
 
-// Фабпика 2
+// Фабрика 2
 function familyCarFactory() {
     return new I3();
 };
